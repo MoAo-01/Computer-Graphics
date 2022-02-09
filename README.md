@@ -1,5 +1,4 @@
-# Computer-Graphics
-CPT205 XJTLU's CW
+# Computer-Graphics CPT205 XJTLU's CW
 
 **This is a markdown document, please use related markdown editor or plug-in to open to get a better experience.**
 
